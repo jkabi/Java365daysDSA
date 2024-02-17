@@ -1,5 +1,5 @@
 
-public class Main {
+public class p3tranpose {
     public static void printName(String name) {
 
         System.out.println("Hi, I am " + name + "!");

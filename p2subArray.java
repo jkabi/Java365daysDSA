@@ -1,5 +1,5 @@
 
-public class Main{
+public class p2subArray{
     public  static void  main(String [] args){
 //       sub array
         int [] arr = new int []{12,34,23,13,46};
